@@ -1,0 +1,372 @@
+{
+  "hero": {
+    "badge_text": "Search Engineering™",
+    "heading": "Win the conversation.",
+    "description": "When buyers ask ChatGPT, Gemini, Claude or any other LLM, only a few brands make the answer. We engineer yours to be one of them, then measure your Context Authority to prove it.",
+    "buttons": [
+      { "label": "Book a Workshop", "url_key": "contact-us", "style": "primary", "icon": "https://cdn.prod.website-files.com/68c04edf494a06a2d8bdab34/68c0826fba938765bb971db2_btn-arrow.svg" },
+      { "label": "Get your Context Authority score", "url_key": "search-engineering", "style": "secondary", "icon": "https://cdn.prod.website-files.com/68c04edf494a06a2d8bdab34/68eea48f580c435122d14d9e_white-chevron.svg" }
+    ],
+    "background_video": {
+      "poster": "https://cdn.prod.website-files.com/68c04edf494a06a2d8bdab34/6a05cea0aa561e7062a14fe3_Low%20Resolution%20Video_poster.0000000.jpg",
+      "mp4": "https://cdn.prod.website-files.com/68c04edf494a06a2d8bdab34/6a05cea0aa561e7062a14fe3_Low%20Resolution%20Video_mp4.mp4",
+      "webm": "https://cdn.prod.website-files.com/68c04edf494a06a2d8bdab34/6a05cea0aa561e7062a14fe3_Low%20Resolution%20Video_webm.webm"
+    }
+  },
+
+  "trusted_logos_heading": "Trusted by leading brands",
+  "trusted_logos": [
+    { "src": "https://cdn.prod.website-files.com/68c04edf494a06a2d8bdab34/68efb92196880d1b51d2ef71_QuidelOrtho%201.svg", "alt": "QuidelOrtho", "width": "127.5", "size_class": "_24px" },
+    { "src": "https://cdn.prod.website-files.com/68c04edf494a06a2d8bdab34/68efb93a03670309590e05b7_Group%201000012286.svg", "alt": "Turito", "width": "98", "size_class": "_24px" },
+    { "src": "https://cdn.prod.website-files.com/68c04edf494a06a2d8bdab34/68efb9510acbb9367983048d_Group%201000012288.svg", "alt": "Tata Play", "width": "106", "size_class": "_20px" },
+    { "src": "https://cdn.prod.website-files.com/68c04edf494a06a2d8bdab34/68efb96ced2b41b200cb3d5a_Group%201000012287.svg", "alt": "Reliance Digital", "width": "124", "size_class": "_35px" },
+    { "src": "https://cdn.prod.website-files.com/68c04edf494a06a2d8bdab34/68efb984eb8fb92ad654af25_Group%201000012289.svg", "alt": "Manipal Cigna", "width": "124", "size_class": "_32px" },
+    { "src": "https://cdn.prod.website-files.com/68c04edf494a06a2d8bdab34/68efbc920c28c50550d887d7_cadabams%201%20(2).svg", "alt": "Cadabams", "width": "124", "size_class": "_40px" },
+    { "src": "https://cdn.prod.website-files.com/68c04edf494a06a2d8bdab34/68efba7ac18c2fbe9f93166e_Hombale%20Verse%201.svg", "alt": "Hombale Verse", "width": "124", "size_class": "_35px" },
+    { "src": "https://cdn.prod.website-files.com/68c04edf494a06a2d8bdab34/68efba95cbe6496a40b63254_Mahindra%20Holidays%201.svg", "alt": "Club Mahindra", "width": "124", "size_class": "_40px" },
+    { "src": "https://cdn.prod.website-files.com/68c04edf494a06a2d8bdab34/68efbab9c12e61358050ec49_image%2079.svg", "alt": "Vetic", "width": "124", "size_class": "_32px" },
+    { "src": "https://cdn.prod.website-files.com/68c04edf494a06a2d8bdab34/68efbadbeb8fb92ad6552ee4_Droid-mix.svg", "alt": "Zoomcar", "width": "124", "size_class": "_32px" },
+    { "src": "https://cdn.prod.website-files.com/68c04edf494a06a2d8bdab34/68efbaf7122aae449f1bb706_Group%201000012290.svg", "alt": "Kotak Securities", "width": "124", "size_class": "_28px" },
+    { "src": "https://cdn.prod.website-files.com/68c04edf494a06a2d8bdab34/68efbb1887b7e421116f3564_Group.svg", "alt": "Quantum Leap", "width": "124", "size_class": "_24px" }
+  ],
+  "trusted_logos_marquee": [
+    { "src": "https://cdn.prod.website-files.com/68c04edf494a06a2d8bdab34/6a61077a1a604dd87b879917_Pothys%201.png", "alt": "", "width": "127.5", "grays": false },
+    { "src": "https://cdn.prod.website-files.com/68c04edf494a06a2d8bdab34/6a61077a47c89ccbab5c7bc5_footer%201.svg", "alt": "", "width": "98", "grays": true },
+    { "src": "https://cdn.prod.website-files.com/68c04edf494a06a2d8bdab34/6a61077a5f338a08d2696684_05aa982eae97d6df0c5d0d8217284b1443228dd1.png", "alt": "", "width": "106", "grays": true },
+    { "src": "https://cdn.prod.website-files.com/68c04edf494a06a2d8bdab34/6a61077a79f1b1d44129db26_Group%201000012392.png", "alt": "", "width": "124", "grays": true },
+    { "src": "https://cdn.prod.website-files.com/68c04edf494a06a2d8bdab34/6a61077a4b16f46011fbc5c9_Group%201000012388.svg", "alt": "", "width": "124", "grays": false },
+    { "src": "https://cdn.prod.website-files.com/68c04edf494a06a2d8bdab34/6a61077a5abf35a9b7c12a44_Group%201000012387.svg", "alt": "", "width": "124", "grays": false },
+    { "src": "https://cdn.prod.website-files.com/68c04edf494a06a2d8bdab34/6a61077a311b9baaef884e1c_Group%201000012389.svg", "alt": "", "width": "124", "grays": false },
+    { "src": "https://cdn.prod.website-files.com/68c04edf494a06a2d8bdab34/6a61077a3bac4c65e7d17347_Group%201000012390.svg", "alt": "", "width": "124", "grays": true },
+    { "src": "https://cdn.prod.website-files.com/68c04edf494a06a2d8bdab34/6a61077ac4b18ac62b21a0b6_ACL-Logo-White-300x86-new-1%201.svg", "alt": "", "width": "124", "grays": true },
+    { "src": "https://cdn.prod.website-files.com/68c04edf494a06a2d8bdab34/6a61077a9af7fd082a9a8c53_Group%201000012391.svg", "alt": "", "width": "124", "grays": true }
+  ],
+  "trusted_logos_marquee_repeats": 1,
+
+  "marketing_promo": {
+    "logo": "https://cdn.prod.website-files.com/68c04edf494a06a2d8bdab34/6931bf1d8bc0eab79b46f70f_image%201.svg",
+    "logo_alt": "FTA Visibility logo",
+    "eyebrow": "Live Sep 22-26",
+    "description": "See how your brand shows up on AI platforms and track prompts, citations, competitors, traffic impact, and more.",
+    "cta_label": "Get Early Access",
+    "cta_url_key": "visibility-ai-tool",
+    "cta_icon": "https://cdn.prod.website-files.com/68c04edf494a06a2d8bdab34/68c0826fba938765bb971db2_btn-arrow.svg",
+    "youtube_embed": "https://www.youtube.com/embed/QVBRdt0tvNY?rel=0&controls=1&autoplay=1&mute=1&start=0"
+  },
+
+  "os_section": {
+    "gif": "https://cdn.prod.website-files.com/68c04edf494a06a2d8bdab34/68f129aa8efbb175223372f1_OS.gif",
+    "gif_alt": "Six Hubs",
+    "heading": "Six Hubs.<br />One Marketing OS.",
+    "description": "Every hub engineered to drive speed, precision, and accountability. At FTA, we're not built like an agency. We\u2019re engineered as a Marketing Operating System. A connected model of Search Engineering, ABM, Creative, and Tech that works as an extension of your team, focused on one thing: Outcomes.",
+    "cta_label": "Book a Workshop",
+    "cta_url_key": "contact-us",
+    "cta_icon": "https://cdn.prod.website-files.com/68c04edf494a06a2d8bdab34/68c0826fba938765bb971db2_btn-arrow.svg",
+    "blueprint_stat": {
+      "number": "50+",
+      "label": "Outcome Blueprint",
+      "description": "Every brand we work with gets more than reports. We build a blueprint of actions, signals, and systems so marketing isn\u2019t guesswork but engineered for measurable growth."
+    },
+    "metrics": [
+      { "number": "80+", "label": "Team Members", "description": "A growing team of strategists, creators, and engineers powering outcomes." },
+      { "number": "75+", "label": "Clients", "description": "Every workshop, campaign, and playbook is tracked against pipeline impact." }
+    ]
+  },
+
+  "services_section": {
+    "heading": "FTA Global Services",
+    "services": [
+      {
+        "url_key": "search-engineering",
+        "target_blank": false,
+        "image": "https://cdn.prod.website-files.com/68c04edf494a06a2d8bdab34/68eaa49e24d64381d4d8ec8e_SEO.webp",
+        "image_alt": "Search Labs Image",
+        "logo": "https://cdn.prod.website-files.com/68c04edf494a06a2d8bdab34/6a6a030b123d4c62a865b3f6_Search%20Engineering%20from%20Surendar.svg",
+        "logo_alt": "search engineering",
+        "logo_class": "search-labs-logo",
+        "description": "Win the answer layer across Google, ChatGPT, Perplexity, Gemini.",
+        "card_variant": "is-1"
+      },
+      {
+        "url_key": "demand-labs",
+        "target_blank": false,
+        "image": "https://cdn.prod.website-files.com/68c04edf494a06a2d8bdab34/68eaa49ee5d83f026c2abc93_DL.webp",
+        "image_alt": "Demand Labs Image",
+        "logo": "https://cdn.prod.website-files.com/68c04edf494a06a2d8bdab34/68ef66a6ee0e3dadff088ca3_image%2022.webp",
+        "logo_alt": "Demand Labs FTA Global",
+        "logo_class": "d4emand-labs-logo-copy",
+        "description": "Hybrid ABM that turns target accounts into pipeline.",
+        "card_variant": "is-2"
+      },
+      {
+        "url_key": "performance-labs",
+        "target_blank": true,
+        "image": "https://cdn.prod.website-files.com/68c04edf494a06a2d8bdab34/68ef44d57d4039b2bbb11e55_Clip%20path%20group%20(1).webp",
+        "image_alt": "Performance Labs Image",
+        "logo": "https://cdn.prod.website-files.com/68c04edf494a06a2d8bdab34/68ef662d8f1bee90b7840d76_image%2078.svg",
+        "logo_alt": "Performance Labs FTA Global",
+        "logo_class": "search-labs-logo is-performance",
+        "description": "Results-driven partner maximizing growth &amp; return on ad spends.",
+        "card_variant": ""
+      },
+      {
+        "url_key": "tech-labs",
+        "target_blank": false,
+        "image": "https://cdn.prod.website-files.com/68c04edf494a06a2d8bdab34/68eaa49eadc1bb7f27bd8092_TL.webp",
+        "image_alt": "Tech Labs Image",
+        "logo": "https://cdn.prod.website-files.com/68c04edf494a06a2d8bdab34/68ef6673b299aa62f2c2d57a_image%2044.webp",
+        "logo_alt": "Tech Labs FTA Global",
+        "logo_class": "techlabs-logo is-1px",
+        "description": "Jarvis Fire OS + 100 tools to movefaster than your category.",
+        "card_variant": "is-4"
+      },
+      {
+        "url_key": "creative-labs",
+        "target_blank": false,
+        "image": "https://cdn.prod.website-files.com/68c04edf494a06a2d8bdab34/68eaa49e069e1baa70e79e76_CL.webp",
+        "image_alt": "Creative Labs Image",
+        "logo": "https://cdn.prod.website-files.com/68c04edf494a06a2d8bdab34/68ef668dd3bcea0e02fb70db_image%2043.svg",
+        "logo_alt": "Creative Labs FTA Global",
+        "logo_class": "search-labs-logo is-creativce",
+        "description": "Lab-made films, social, and creative systems for the AI era.",
+        "card_variant": "is-3"
+      },
+      {
+        "url_key": "fta-prime",
+        "target_blank": false,
+        "image": "https://cdn.prod.website-files.com/68c04edf494a06a2d8bdab34/68eaa49ebde85d6ffd8dc311_GIGs.webp",
+        "image_alt": "FTA Gigs Image",
+        "logo": "https://cdn.prod.website-files.com/68c04edf494a06a2d8bdab34/69f9e0559c211bd0a594645c_FTA%20Prime%20Asset%209.svg",
+        "logo_alt": "FTA Gigs Logo",
+        "logo_class": "search-labs-logo is-prime-copy",
+        "description": "Dedicated growth engine for start ups and mid size companies.",
+        "card_variant": "is-5"
+      }
+    ],
+    "explore_arrow": "https://cdn.prod.website-files.com/68c04edf494a06a2d8bdab34/68c15f0941fe26f112d9db82_right-arrow.svg"
+  },
+
+  "tools_section": {
+    "heading": "Tools and Frameworks",
+    "subheading": "Try our free tools built for the AI search era.",
+    "note": "100+ tools inside the Tech Hub. Here are a few you can try right now:",
+    "tools": [
+      {
+        "title": "GSC Backlink Insights Dashboard",
+        "description": "Track how your backlinks influence visibility and performance.",
+        "url": "https://terminal.ftaglobal.in/gsc-backlink-visualizer",
+        "image": "https://cdn.prod.website-files.com/68c04edf494a06a2d8bdab34/68f086c0fb509299fdce0a51_Clip%20path%20group-1.webp",
+        "slug_class": "dash"
+      },
+      {
+        "title": "HTTP Status Code Checker",
+        "description": "Quickly check technical health across bulk URLs, ideal for site migrations and redirect testing.",
+        "url": "https://terminal.ftaglobal.in/http-status-checker",
+        "image": "https://cdn.prod.website-files.com/68c04edf494a06a2d8bdab34/68efeb0899cefd701609d345_Clip%20path%20group%20(3).webp",
+        "slug_class": "http"
+      },
+      {
+        "title": "GSC Visualizer",
+        "description": "Instantly generate clean, easy-to-read reports from your Google Search Console metrics.",
+        "url": "https://terminal.ftaglobal.in/gsc-visualizer",
+        "image": "https://cdn.prod.website-files.com/68c04edf494a06a2d8bdab34/68efec715aaf95cccec9ef58_Clip%20path%20group%20(6).webp",
+        "slug_class": "isvis"
+      },
+      {
+        "title": "Google Search Builder",
+        "description": "Take control of your search: Craft bespoke Google-powered search solutions tailored to your data.",
+        "url": "https://terminal.ftaglobal.in/google-search-builder",
+        "image": "https://cdn.prod.website-files.com/68c04edf494a06a2d8bdab34/68f086c000578fa2723bb5d0_Clip%20path%20group.webp",
+        "slug_class": "isgscbuilder"
+      }
+    ],
+    "arrow_svg_path": "M8.53 17.3901L1 8.96045L8.53 0.540039"
+  },
+
+  "media_section": {
+    "heading": "Media features",
+    "logos": [
+      { "src": "https://cdn.prod.website-files.com/68c04edf494a06a2d8bdab34/68c18b964610e0e732d6efbb_media-1.webp", "alt": "Yourstory", "width": "127.5" },
+      { "src": "https://cdn.prod.website-files.com/68c04edf494a06a2d8bdab34/68c18c03bba9a97a430bfd80_media-2.webp", "alt": "Campaign", "width": "98" },
+      { "src": "https://cdn.prod.website-files.com/68c04edf494a06a2d8bdab34/68c18b968f6403ef560eecd5_media-3.webp", "alt": "", "width": "106" },
+      { "src": "https://cdn.prod.website-files.com/68c04edf494a06a2d8bdab34/68c18b9634a0fc92ef74a577_media-4.webp", "alt": "AdAge", "width": "124" }
+    ],
+    "marquee_repeats": 1
+  },
+
+  "case_studies_section": {
+    "tabs": [
+      {
+        "id": "lifesciences",
+        "label": "Lifesciences",
+        "active": false,
+        "title": "How did FTA Global achieve 74% growth in AI Overview keywords for Allucent?",
+        "description": "FTA Global helped Allucent translate deep clinical expertise into content that could be discovered, understood, and cited across Google AI Overviews and large language models.",
+        "work_url_key": "work",
+        "case_study_url_key": "work/how-did-fta-global-achieve-74-growth-in-ai-overview-keywords-for-allucent",
+        "metrics": [
+          { "number": "168 to 292 AI Overview keywords", "description": "Allucent gained visibility across 124 additional keywords cited within Google AI Overviews." },
+          { "number": "16,902 to 21,581 organic sessions", "description": "Organic sessions increased by 4,679 during the five-month engagement." }
+        ]
+      },
+      {
+        "id": "bfsi",
+        "label": "BFSI",
+        "active": false,
+        "title": "FTA Global x ManipalCigna",
+        "description": "FTA Global helped ManipalCigna, a leading health insurance brand, scale its visibility across high intent search and AI driven discovery.",
+        "work_url_key": "work",
+        "case_study_url_key": "work/fta-global-x-manipalcigna",
+        "metrics": [
+          { "number": "797% Top 10 keyword growth", "description": "Top 10 keywords grew from 149 to 1,337 between August and December 2025" },
+          { "number": "1.5M+ search demand captured", "description": "Up from 408K, driven by intent-aligned content and city-level demand capture" }
+        ]
+      },
+      {
+        "id": "healthcare",
+        "label": "Healthcare",
+        "active": false,
+        "title": "How did FTA Global achieve 74% growth in AI Overview keywords for Allucent?",
+        "description": "FTA Global helped Allucent translate deep clinical expertise into content that could be discovered, understood, and cited across Google AI Overviews and large language models.",
+        "work_url_key": "work",
+        "case_study_url_key": "work/how-did-fta-global-achieve-74-growth-in-ai-overview-keywords-for-allucent",
+        "metrics": [
+          { "number": "168 to 292 AI Overview keywords", "description": "Allucent gained visibility across 124 additional keywords cited within Google AI Overviews." },
+          { "number": "16,902 to 21,581 organic sessions", "description": "Organic sessions increased by 4,679 during the five-month engagement." }
+        ]
+      },
+      {
+        "id": "saas",
+        "label": "SAAS",
+        "active": false,
+        "title": "Apty \u00d7 FTA Global",
+        "description": "From Low-Quality Leads to $1.1M+ in Pipeline",
+        "work_url_key": "work",
+        "case_study_url_key": "work/apty-x-fta-global",
+        "metrics": [
+          { "number": "$1.1M+", "description": "Pipeline influenced in 90 days through connected reporting across LinkedIn, HubSpot, and GA4" },
+          { "number": "11% to 28%", "description": "MQL to SQL conversion improved with better targeting and clearer buyer journeys" }
+        ]
+      },
+      {
+        "id": "education",
+        "label": "Education",
+        "active": false,
+        "title": "How FTA Global Rebuilt Sigma University\u2019s Admission Marketing (25% Admissions Growth, 11+ Programs)",
+        "description": "FTA Global restructured Sigma University\u2019s paid acquisition program across Google and Meta to improve lead quality, strengthen application intent, and create clearer visibility across programs during the admission season.",
+        "work_url_key": "work",
+        "case_study_url_key": "work/how-fta-global-rebuilt-sigma-universitys-admission-marketing-25-admissions-growth-11-programs",
+        "metrics": [
+          { "number": "25% growth in actual admissions", "description": "Admissions increased even as higher application fees affected the overall number of submitted applications." },
+          { "number": "11+ program categories activated", "description": "Campaigns were structured around individual program demand instead of treating university admissions as one broad audience." }
+        ]
+      },
+      {
+        "id": "ecommerce",
+        "label": "E commerce",
+        "active": true,
+        "title": "Reliance Digital \u00d7 FTA Global",
+        "description": "From 20,738 to 166,400 ChatGPT Sessions in 9 Months",
+        "work_url_key": "work",
+        "case_study_url_key": "work/reliance-digital-x-fta-global-case-study",
+        "metrics": [
+          { "number": "+702.39% ChatGPT sessions", "description": "from 20,738 to 166,400 in 9 months" },
+          { "number": "500+ blogs and 400+ pages", "description": "Rebuilt for AI retrieval and LLM discoverability" }
+        ]
+      }
+    ]
+  },
+
+  "work_slider": [
+    { "case_study_url_key": "work/how-fta-global-generated-37-emea-sales-opportunities-for-a-tax-compliance-leader", "image": "https://cdn.prod.website-files.com/68c9971d2c10c87dc2cb71c7/6a7e9728570c590144e7bede_Avalara%20-01%20(1).jpg", "category": "Case Study", "date": "August 14, 2026", "title": "How FTA Global Generated 37 EMEA Sales Opportunities for a Tax Compliance Leader", "summary": "FTA Global rebuilt India\u2019s Leading Tax Compliance Company\u2019s EMEA paid digital programme around regional buying behaviour, high-intent channels, account-level signals, and market-specific messaging." },
+    { "case_study_url_key": "work/how-mezame-increased-monthly-revenue-from-11-27l-to-14-40l-in-one-month", "image": "https://cdn.prod.website-files.com/68c9971d2c10c87dc2cb71c7/6a7471576fc7d9f20a79045b_mezame.jpg", "category": "Case Study", "date": "August 14, 2026", "title": "How Mezame Increased Monthly Revenue from \u20b911.27L to \u20b914.40L in One Month", "summary": "FTA Global helped Mezame rebuild its Meta and Google Ads structure to reduce audience fatigue, improve budget efficiency, and restore scalable revenue growth." },
+    { "case_study_url_key": "work/how-did-fta-global-achieve-74-growth-in-ai-overview-keywords-for-allucent", "image": "https://cdn.prod.website-files.com/68c9971d2c10c87dc2cb71c7/6a741a280028970991c378e0_Allucent%20.jpg", "category": "Case Study", "date": "August 19, 2026", "title": "How did FTA Global achieve 74% growth in AI Overview keywords for Allucent?", "summary": "FTA Global helped Allucent translate deep clinical expertise into content that could be discovered, understood, and cited across Google AI Overviews and large language models." },
+    { "case_study_url_key": "work/how-astroguru-scaled-meta-spend-to-1-2l-a-day-while-maintaining-2-0-roas", "image": "https://cdn.prod.website-files.com/68c9971d2c10c87dc2cb71c7/6a717d61656e4616551ad7ed_Astro%20Rakesh%20Banga.jpg", "category": "Case Study", "date": "August 5, 2026", "title": "How AstroGuru Scaled Meta Spend to \u20b91.2L a Day While Maintaining 2.0+ ROAS?", "summary": "FTA Global partnered with AstroGuru to rebuild its Meta advertising around product categories, stronger creative testing, and a scalable acquisition structure." },
+    { "case_study_url_key": "work/how-dermawear-fixed-its-paid-growth-engine", "image": "https://cdn.prod.website-files.com/68c9971d2c10c87dc2cb71c7/6a6c7f8ac811ea83173cc734_Dermawear%20(1).jpg", "category": "Case Study", "date": "July 31, 2026", "title": "How Dermawear Fixed Its Paid Growth Engine?", "summary": "Dermawear consistently maintained daily online revenue above \u20b91 lakh after restructuring its Meta and Google Ads accounts." },
+    { "case_study_url_key": "work/eicher-tractors-x-fta-global", "image": "https://cdn.prod.website-files.com/68c9971d2c10c87dc2cb71c7/6a68348b25f2ef77c33b50d3_Eicher.jpg", "category": "Case Study", "date": "July 29, 2026", "title": "Eicher Tractors \u00d7 FTA Global", "summary": "FTA Global helped Eicher Tractors move beyond branded search by building a multilingual content engine across traditional search, AI Overviews, and regional discovery." },
+    { "case_study_url_key": "work/allucent-x-fta-global", "image": "https://cdn.prod.website-files.com/68c9971d2c10c87dc2cb71c7/6a5f500f1943e382f6451ece_Allucent%2001.jpg", "category": "Case Study", "date": "August 19, 2026", "title": "Allucent \u00d7 FTA Global", "summary": "FTA Global redesigned Allucent\u2019s digital experience around the way clinical leaders evaluate, trust, and choose a CRO." },
+    { "case_study_url_key": "work/apty-x-fta-global", "image": "https://cdn.prod.website-files.com/68c9971d2c10c87dc2cb71c7/6a4f2e761e3805a36cf18b2b_Apty.jpg", "category": "Case Study", "date": "July 9, 2026", "title": "Apty \u00d7 FTA Global", "summary": "From Low-Quality Leads to $1.1M+ in Pipeline" },
+    { "case_study_url_key": "work/avalara-x-fta-global", "image": "https://cdn.prod.website-files.com/68c9971d2c10c87dc2cb71c7/6a1ed4c45178a88087ed34ad_Avalara%20(1).jpg", "category": "Case Study", "date": "July 29, 2026", "title": "Avalara \u00d7 FTA Global", "summary": "A cold APAC market, turned into qualified pipeline. +3,320% inquiries in 12 months." },
+    { "case_study_url_key": "work/caba-design-x-fta-global-case-study", "image": "https://cdn.prod.website-files.com/68c9971d2c10c87dc2cb71c7/6a05c4af5f57832cdc37c7f0_Caba.jpg", "category": "Case Study", "date": "May 14, 2026", "title": "Caba Design \u00d7 FTA Global", "summary": "Two furniture brands. Zero blog presence. 304 AI citations in two months." },
+    { "case_study_url_key": "work/reliance-digital-x-fta-global-case-study", "image": "https://cdn.prod.website-files.com/68c9971d2c10c87dc2cb71c7/69f9a19f3e4b6f83415006f2_RD_2.jpg", "category": "Case Study", "date": "August 14, 2026", "title": "Reliance Digital \u00d7 FTA Global", "summary": "From 20,738 to 166,400 ChatGPT Sessions in 9 Months" },
+    { "case_study_url_key": "work/apex-group-x-fta-global-case-study", "image": "https://cdn.prod.website-files.com/68c9971d2c10c87dc2cb71c7/69fd71dfc7c37d65ad930021_Apex.jpeg", "category": "Case Study", "date": "May 14, 2026", "title": "Apex Group \u00d7 FTA Global", "summary": "A 22-point health score jump in two weeks. No new content. No new campaigns. Just fixing what was broken." },
+    { "case_study_url_key": "work/paisa247xfta-global-case-study", "image": "https://cdn.prod.website-files.com/68c9971d2c10c87dc2cb71c7/69fd71f9c0d305bf40d10df0_Paisa%20247.jpeg", "category": "Case Study", "date": "May 14, 2026", "title": "Paisa247\u00d7FTA Global", "summary": "FTA Global helped Paisa247 improve organic app installs, store visibility, and conversion quality through a structured Google Play Store optimization strategy." },
+    { "case_study_url_key": "work/legend-of-toys-x-fta-global-case-study", "image": "https://cdn.prod.website-files.com/68c9971d2c10c87dc2cb71c7/69f99d08a295fe92b5cbf9af_LOT.jpg", "category": "Case Study", "date": "May 14, 2026", "title": "Legend of Toys \u00d7 FTA Global", "summary": "143% revenue growth in a month. \u20b965.6 lakh in March. ROAS held at 3x. Here is how scaling without breaking works." },
+    { "case_study_url_key": "work/step-learning-x-fta-global-case-study", "image": "https://cdn.prod.website-files.com/68c9971d2c10c87dc2cb71c7/69f99d1a4df178af8a4ed0e1_Step%20Learing.jpg", "category": "Case Study", "date": "May 18, 2026", "title": "Step Learning \u00d7 FTA Global", "summary": "The expertise was already there. Buyers just couldn't find it before they found someone else." },
+    { "case_study_url_key": "work/global-hearing-aid-x-fta-global", "image": "https://cdn.prod.website-files.com/68c9971d2c10c87dc2cb71c7/69f99d3c91e1e783a0d73667_Global.jpg", "category": "Case Study", "date": "May 18, 2026", "title": "Global Hearing Aid \u00d7 FTA Global", "summary": "\u20b912.58L to \u20b919.15L in 4 months. No new budget. No new channels. Just better optimizations and strategy." },
+    { "case_study_url_key": "work/fta-global-x-manipalcigna", "image": "https://cdn.prod.website-files.com/68c9971d2c10c87dc2cb71c7/69f99d5b018e990adfdb5fa8_Manipal.jpg", "category": "Case Study", "date": "August 19, 2026", "title": "FTA Global x ManipalCigna", "summary": "FTA Global helped ManipalCigna, a leading health insurance brand, scale its visibility across high intent search and AI driven discovery." },
+    { "case_study_url_key": "work/vetic-x-fta-global", "image": "https://cdn.prod.website-files.com/68c9971d2c10c87dc2cb71c7/69f99d9491a845f0b7fd99d0_Vetic.jpg", "category": "Case Study", "date": "May 8, 2026", "title": "India's Leading Veterinary Brand \u00d7 FTA Global", "summary": "The brand was already trusted. It just wasn't being found early enough, clearly enough, or locally enough." },
+    { "case_study_url_key": "work/indias-leading-electronics-company-x-fta-global", "image": "https://cdn.prod.website-files.com/68c9971d2c10c87dc2cb71c7/69f99db3f52bd3d93138311c_RD.jpg", "category": "Case Study", "date": "May 6, 2026", "title": "India's Leading Electronics Company x FTA Global", "summary": "India\u2019s leading consumer electronics retailer partnered with FTA Global to win visibility in AI-led discovery and accelerate organic growth across AI engines and traditional search." },
+    { "case_study_url_key": "work/gemsmantra-x-fta-global", "image": "https://cdn.prod.website-files.com/68c9971d2c10c87dc2cb71c7/69f99dd15f47400f121a4f3b_GM.jpg", "category": "Case Study", "date": "May 18, 2026", "title": "Gemsmantra x FTA Global", "summary": "Gemsmantra is a brand that connects people with gemstones and Rudraksha for their beauty, energy and purpose. Blending ancient wisdom with modern aspirations, it aspires to be the most trusted destination for gemstones, Rudraksha and crystals. This heritage-rich company approached FTA Global to transform its paid advertising into a consistent revenue engine." },
+    { "case_study_url_key": "work/zoomcar-x-fta-global", "image": "https://cdn.prod.website-files.com/68c9971d2c10c87dc2cb71c7/69f99de30f8f8352107e515b_Zoomcar.jpg", "category": "Case Study", "date": "May 14, 2026", "title": "Zoomcar x FTA Global", "summary": "Zoomcar is India\u2019s leading self-drive car rental marketplace, operating across more than 40 cities. The platform enables users to rent cars by the hour, day, or week through an app-first experience, while empowering individual car owners to earn by listing their vehicles." }
+  ],
+
+  "testimonials": [
+    {
+      "company_logo": "https://cdn.prod.website-files.com/68c9971d2c10c87dc2cb71c7/6a1902feb13b5bf33b305e40_Group%202147203068-2.png",
+      "company_logo_alt": "Reliance Digital",
+      "quote": "FTA Global took ownership from planning to execution and delivered beyond the defined SOW. Their work across search visibility, AI and LLM visibility, communication, reporting, speed of execution, strategic thinking, technical depth, and business understanding stood out clearly.",
+      "name": "Sudhir Chaurasiya",
+      "designation": "Digital Marketing Leader",
+      "company": "Reliance Digital",
+      "person_image": "https://cdn.prod.website-files.com/68c9971d2c10c87dc2cb71c7/6a1ad20eb187ffdba10e0b4b_WhatsApp%20Image%20May%2029%202026%20(2).jpeg"
+    },
+    {
+      "company_logo": "https://cdn.prod.website-files.com/68c9971d2c10c87dc2cb71c7/6a1b06c8c231e9d5763681fe_logo-250%201.png",
+      "company_logo_alt": "Hejje",
+      "quote": "We partnered with FTA Global when we were having an issue with our lead generation process, and this is exactly where FTA Global has done a splendid job. They have helped us with both the volume and quality of leads. Their process driven approach with constant updates helps us ensure that all these leads are followed up and that the highest amount of conversions are being done through our team. I really recommend FTA Global to anyone who is in this domain and wants a lead generation service which is of utmost value and adds a great amount of value for your business.",
+      "name": "Vijeth Saliyan",
+      "designation": "Digital Marketing Partner",
+      "company": "Hejje",
+      "person_image": "https://cdn.prod.website-files.com/68c9971d2c10c87dc2cb71c7/6a1ad21765d062b2a6a5d5b1_WhatsApp%20Image%20May%2029%202026%20(1).jpeg"
+    },
+    {
+      "company_logo": "https://cdn.prod.website-files.com/68c9971d2c10c87dc2cb71c7/6a1b06e4e8d9bae9309a89ff_Asset%203%201.png",
+      "company_logo_alt": "LDS Infotech Pvt Ltd",
+      "quote": "Attention to detail, stickiness, responsiveness has been great,Keep up the great work.",
+      "name": "Arjunn Shetty",
+      "designation": "Data Engineer",
+      "company": "LDS Infotech Pvt Ltd",
+      "person_image": "https://cdn.prod.website-files.com/68c9971d2c10c87dc2cb71c7/6a1954feb01673d30cc664d8_004.png"
+    },
+    {
+      "company_logo": "https://cdn.prod.website-files.com/68c9971d2c10c87dc2cb71c7/6a1b06ede1c411e68b5e4d67_906c377a-e71c-4ca8-8f9a-540e6f053286%201.png",
+      "company_logo_alt": "Syah Udaipur",
+      "quote": "The results have been outstanding and we have been able to outrank our competitions like Taj and Oberoi's for several key business search terms. We are now ranking in top positions many target keywords, which has made a significant impact on our business, reservations, and customer bookings. The team is professional, proactive, and really knows how to deliver results. I am extremely happy with their work and would highly recommend them.",
+      "name": "Deepak Kumar",
+      "designation": "Founder",
+      "company": "Syah Udaipur",
+      "person_image": "https://cdn.prod.website-files.com/68c9971d2c10c87dc2cb71c7/6a1ad1ec8def5a8ce04d9721_WhatsApp%20Image%20May%2029%202026.jpeg"
+    },
+    {
+      "company_logo": "https://cdn.prod.website-files.com/68c9971d2c10c87dc2cb71c7/6a840a86d4d6b33a05ca5530_LKS%202.svg",
+      "company_logo_alt": "LKS",
+      "quote": "We valued the professionalism and consistency FTA Global brought to our SEO and organic marketing engagement. The weekly reviews, practice page and content programmes, and the care taken through the handover reflected the team\u2019s attention to the work throughout the engagement. When we decided to bring the function in house, the transition was handled exactly as one would hope, with no drop in quality or attention. Bringing the work in house was a decision about our internal roadmap rather than any reflection on FTA Global. Should our needs evolve, we would be glad to explore working together again.",
+      "name": "Subhomoy Bakshi",
+      "designation": "Head, Digital Transformation Lakshmikumaran Sridharan Attorneys",
+      "company": "LKS",
+      "person_image": "https://cdn.prod.website-files.com/68c9971d2c10c87dc2cb71c7/6a84080e0513bd2753df5007_Mask%20group.png"
+    },
+    {
+      "company_logo": "https://cdn.prod.website-files.com/68c9971d2c10c87dc2cb71c7/6a840b3f089f4318bad8b71c_Global%20Hearing%20AID%201.svg",
+      "company_logo_alt": "Global Hearing Aid Centre",
+      "quote": "We sincerely appreciate FTA Global for their proactive and responsive support in managing our Google and Meta campaigns. Their understanding of our business requirements, regular campaign monitoring, and continuous focus on improving performance and lead quality have been valuable to us. A special appreciation to our SPOC, Mr. Karan, for consistently introducing new technologies, features, and innovative approaches. We are happy to have FTA Global as our marketing partner and look forward to achieving greater results together.",
+      "name": "",
+      "designation": "",
+      "company": "Global Hearing Aid Centre",
+      "person_image": ""
+    }
+  ],
+
+  "cta_section": {
+    "heading": "Ready to engineer your outcomes?",
+    "button_label": "Book a Workshop",
+    "button_url_key": "contact-us",
+    "button_icon": "https://cdn.prod.website-files.com/68c04edf494a06a2d8bdab34/68c0826fba938765bb971db2_btn-arrow.svg",
+    "background_video": {
+      "poster": "https://cdn.prod.website-files.com/68c04edf494a06a2d8bdab34/68e6208dbeb962a777b4b99b_Video%20from%20WhatsApp-poster-00001.jpg",
+      "mp4": "https://cdn.prod.website-files.com/68c04edf494a06a2d8bdab34/68e6208dbeb962a777b4b99b_Video%20from%20WhatsApp-transcode.mp4",
+      "webm": "https://cdn.prod.website-files.com/68c04edf494a06a2d8bdab34/68e6208dbeb962a777b4b99b_Video%20from%20WhatsApp-transcode.webm"
+    }
+  }
+}
